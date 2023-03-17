@@ -1,1 +1,1 @@
-# The problem sets diveded by chapters
+# Problem sets for chapter 1
