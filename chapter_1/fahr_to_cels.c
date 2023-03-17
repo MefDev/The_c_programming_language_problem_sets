@@ -13,8 +13,7 @@ int main()
 	{
 		cels = (5.0/9.0) * (fahr - 32);
 		fahr = fahr + step_frw;
-		printf("%3.0f:\t%3.1f\n", fahr, cels);
-		
+		printf("%3.0f:\t%3.1f\n", fahr, cels);		
 	}
 	printf("\n");
 }
